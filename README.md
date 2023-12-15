@@ -1,5 +1,5 @@
 # ReadMe
-zhong chuan xin wen chuang dui jie lei da
+zhong chuan xin wen
 Radar is a ripple-protocol-based financial network to promote and develop the fastest and least expensive payment settlements systems on a global scale. It enables payments in all types of currency as easy as sending email. 
 
 As the core component of the radar network, the underlying Radard is a series of servers that run peer to peer software. Anyone can freely set up a Radard server to being accepting or receiving payments. In addition to VRP, Radar network introduces a second native currency 'VBC' which is designed to promote the spread and adoption of the Radar network through a reward program. The reward program will be scheduled daily to distribute the pre-defined currency fairly to every eligible user. Using Radard is free and the Radar network is owned by every participant.
